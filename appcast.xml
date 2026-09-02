@@ -5,6 +5,18 @@
         <description>Actualizaciones de FirmaCR</description>
         <language>es</language>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Wed, 02 Sep 2026 18:12:27 +0000</pubDate>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/aloaiza-dev/firma-cr-releases/releases/download/v1.0.1/FirmaCR-1.0.1.zip"
+                       length="4404401"
+                       type="application/octet-stream"
+                       sparkle:edSignature="fD4uA7GfJrIb6+AMJ3w7VF3URcfOsN24bvdj4q61+zX4+/GhRKwncZkS1T6yTheLqpX3tVzNq7rI2ZpRZBYlDQ=="/>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Wed, 02 Sep 2026 02:31:55 +0000</pubDate>
             <sparkle:version>31</sparkle:version>
