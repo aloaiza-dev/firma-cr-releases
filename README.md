@@ -1,6 +1,6 @@
 # FirmaCR — RELEASES
 
-Punto de distribución pública para [FirmaCR](https://github.com/aloaiza-dev/firma-cr),
+Punto de distribución pública para [FirmaCR](https://www.firmacr.com),
 una aplicación para macOS destinada a firmar y verificar archivos PDF utilizando
 la tarjeta de firma digital de Costa Rica.
 
