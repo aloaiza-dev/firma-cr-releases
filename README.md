@@ -1,16 +1,18 @@
-# FirmaCR — releases
+# FirmaCR — RELEASES
 
-Public distribution point for [FirmaCR](https://github.com/aloaiza-dev/firma-cr),
-a macOS app for signing and verifying PDFs with the Costa Rican digital
-signature card.
+Punto de distribución pública para [FirmaCR](https://github.com/aloaiza-dev/firma-cr),
+una aplicación para macOS destinada a firmar y verificar archivos PDF utilizando
+la tarjeta de firma digital de Costa Rica.
 
-This repository holds only the Sparkle appcast and the signed release archives.
-The source lives in a separate, private repository.
+Este repositorio contiene únicamente el *appcast* de Sparkle y los archivos
+comprimidos de los lanzamientos firmados. El código fuente se encuentra en
+un repositorio privado independiente.
 
-Every archive is signed with an EdDSA key. The app verifies that signature
-before installing anything, so a tampered download is rejected regardless of how
-it was obtained.
+Cada archivo comprimido está firmado con una clave EdDSA. La aplicación verifica
+dicha firma antes de realizar cualquier instalación; por lo tanto, se rechaza
+cualquier descarga que haya sido alterada, independientemente de cómo se haya
+obtenido.
 
 ## Appcast
 
-    https://raw.githubusercontent.com/aloaiza-dev/firma-cr-releases/main/appcast.xml
+https://raw.githubusercontent.com/aloaiza-dev/firma-cr-releases/main/appcast.xml
